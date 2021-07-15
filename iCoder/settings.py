@@ -71,7 +71,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'iCoder.wsgi.application'
+
 
 
 # Database
